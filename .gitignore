@@ -1,0 +1,9 @@
+# Ignore all .log files
+*.log
+
+# Ignore a specific directory and its contents
+elasticsearch-8.10.3/
+VENV/
+__pycache__/
+# Ignore all .tmp files in any directory
+*.zip
